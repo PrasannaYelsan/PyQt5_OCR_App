@@ -1,0 +1,1 @@
+# PyQt5_OCR_App
