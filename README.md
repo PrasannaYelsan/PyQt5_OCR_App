@@ -1,6 +1,6 @@
 # PyQt5_OCR_App
 
-Dowload the repository and Install requirement.txt file using following commands
+Download the repository and Install requirement.txt file using following commands
 1. pip -r requirements.txt
 2. Pytesseract.exe
 
